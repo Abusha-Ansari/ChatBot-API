@@ -1,15 +1,13 @@
 {
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
   "type": "module",
   "dependencies": {
-    "@datastax/astra-db-ts": "^1.5.0",
-    "@datastax/langflow-client": "^0.2.1",
     "@google/generative-ai": "^0.22.0",
-    "axios": "^1.8.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "fs": "^0.0.1-security",
-    "nodemon": "^3.1.9",
-    "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "^4.10.38"
+    "nodemon": "^3.1.9"
   }
 }
