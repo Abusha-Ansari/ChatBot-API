@@ -1,4 +1,4 @@
-{
+const eventData = {
     "event_name": "COY (Coder of the Year)",
     "event_overview": "The COY (Coder of the Year) competition aims to identify the best coder from each academic year. The event provides a competitive platform for students to showcase their problem-solving and coding skills.",
     "date_time": {
@@ -53,4 +53,5 @@
       "message": "Dont miss this opportunity! Let us know if you have any questions. Best of luck!"
     }
   }
+  export default eventData;
   
