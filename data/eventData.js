@@ -1,4 +1,5 @@
 const eventData = {
+  "COY": {
     "event_name": "COY (Coder of the Year)",
     "event_overview": "The COY (Coder of the Year) competition aims to identify the best coder from each academic year. The event provides a competitive platform for students to showcase their problem-solving and coding skills.",
     "date_time": {
@@ -50,8 +51,71 @@ const eventData = {
         "Register on HackerRank if you haven't already.",
         "Fill out the registration form to confirm participation."
       ],
-      "message": "Dont miss this opportunity! Let us know if you have any questions. Best of luck!"
+      "message": "Don't miss this opportunity! Let us know if you have any questions. Best of luck!"
+    }
+  },
+  "Bytestream": {
+    "event_name": "Bytestream",
+    "date": "19-March-2025",
+    "theme": "Quantumania (A New Dimension)"
+  },
+  "CodeIgnite": {
+    "event_name": "CodeIgnite",
+    "event_overview": "CodeIgnite is a virtual hackathon organized by CSI PCE, bringing together passionate developers, designers, and problem-solvers to innovate, build, and compete.",
+    "timeline": {
+      "15th March 2025": "Registrations Open",
+      "16th March 2025": "Registration Closes & Problem Statements Released",
+      "18th March 2025": "Presentation & Judging Round (Offline)",
+      "19th March 2025": "Results Announced during Bytestream"
+    },
+    "team_formation": {
+      "team_size": "3-4 members",
+      "solo_participation": "Not allowed",
+      "eligibility": "Teams must consist of students from Pillai College of Engineering only"
+    },
+    "submission_guidelines": {
+      "required_submissions": [
+        "GitHub Repository Link",
+        "Project Presentation (PDF/PPT)",
+        "Demo Video (3-5 mins explaining the project) (Optional)",
+        "Deployment Link (if applicable)"
+      ]
+    },
+    "rules_regulations": {
+      "general_rules": [
+        "Teams must register before the deadline. Late entries will not be considered.",
+        "A participant cannot be part of multiple teams."
+      ],
+      "event_guidelines": [
+        "Solutions must be original and developed during the hackathon.",
+        "Use of AI tools is allowed but must be acknowledged.",
+        "Plagiarism, misconduct, or offensive behavior will result in disqualification.",
+        "Teams must present their project in the judging round on 18th March 2025.",
+        "The judges’ decision will be final and binding."
+      ],
+      "technical_guidelines": [
+        "Teams can use any programming languages, frameworks, and tools.",
+        "Teams must submit their source code, a README file, and a presentation.",
+        "All submissions must be made within the given timeframe."
+      ]
+    },
+    "prizes_rewards": {
+      "first_prize": "₹2,000",
+      "second_prize": "₹1,000"
+    },
+    "judging_criteria": [
+      "Innovation & Creativity",
+      "Technical Implementation",
+      "Impact & Use Case",
+      "Presentation & Demo"
+    ],
+    "contact_information": {
+      "Kartik Dubey": "9326028208",
+      "Tanaya Gharge": "9321728112"
     }
   }
-  export default eventData;
-  
+}
+
+// const eventData = ``;
+
+export default eventData;
