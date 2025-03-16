@@ -1,4 +1,8 @@
 const eventData = {
+  "CSI PCE": {
+    "name": "CSI PCE / CSI-PCE / CSI_PCE / CSI Pillai College of Engineering",
+    "description": "CSI PCE is the official student chapter of the Computer Society of India at Pillai College of Engineering. Largest student body in mumbai chapter. The chapter aims to foster a community of tech enthusiasts, providing opportunities for learning, networking, and growth.",
+  },
   "COY": {
     "event_name": "COY (Coder of the Year)",
     "event_overview": "The COY (Coder of the Year) competition aims to identify the best coder from each academic year. The event provides a competitive platform for students to showcase their problem-solving and coding skills.",
@@ -38,7 +42,6 @@ const eventData = {
       "participation_certificate": "All participants who do not secure a winning position will receive a participation certificate."
     },
     "organizers_sponsors": "The event is organized by Coders Club under the CSI-PCE label.",
-    "special_guests": "Abusha Ansari (Senior Software Engineer & Proficient Competitive Programmer) will be the special guest for the event.",
     "contact_information": {
       "Deep": "9137966805",
       "Kartik": "9326028208",
@@ -115,7 +118,5 @@ const eventData = {
     }
   }
 }
-
-// const eventData = ``;
 
 export default eventData;
