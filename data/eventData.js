@@ -3,7 +3,7 @@ const eventData = {
     "name": "CSI PCE / CSI-PCE / CSI_PCE / CSI Pillai College of Engineering",
     "description": "CSI PCE stands for Computer Society of India, and it is the largest student body in the Mumbai chapter.",
     "for_being_member": "You can join CSI PCE by 1. Participating in annual auditions. 2. Purchasing a membership plan: - 1 Year: ₹700 - 2 Years: ₹1,000 - 3 Years: ₹1,250",
-    "perks/benefits": "Perks include Access to workshops, seminars, and competitions. Networking opportunities and certificates. Discounts on events and free merchandise.",
+    "perks/benefits": "By joining CSI PCE, you get access to various benefits, including: Workshops organized by our committee at minimal prices. Industrial visits (IVs) and study circles to enhance your knowledge. Exclusive goodies for members. ",
     "contact_information": {
       "contact_description":"You can reach out to the following members for any queries or information:",
       "Kartik Dubey": "9326028208",
