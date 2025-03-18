@@ -1,7 +1,17 @@
 const eventData = {
   "CSI PCE": {
     "name": "CSI PCE / CSI-PCE / CSI_PCE / CSI Pillai College of Engineering",
-    "description": "CSI PCE is the official student chapter of the Computer Society of India at Pillai College of Engineering. Largest student body in mumbai chapter. The chapter aims to foster a community of tech enthusiasts, providing opportunities for learning, networking, and growth.",
+    "description": "CSI PCE stands for Computer Society of India, and it is the largest student body in the Mumbai chapter.",
+    "for_being_member": "You can join CSI PCE by 1. Participating in annual auditions. 2. Purchasing a membership plan: - 1 Year: ₹700 - 2 Years: ₹1,000 - 3 Years: ₹1,250",
+    "perks/benefits": "Perks include Access to workshops, seminars, and competitions. Networking opportunities and certificates. Discounts on events and free merchandise.",
+    "contact_information": {
+      "contact_description":"You can reach out to the following members for any queries or information:",
+      "Kartik Dubey": "9326028208",
+      "Sarthak": "9545323145"
+    }
+  },
+  "Coders_Club": {
+    "description":"Coder's Club is a part of CSI PCE that conducts coding competitions and events to enhance technical skills and foster innovation.",
   },
   "COY": {
     "event_name": "COY (Coder of the Year)",
@@ -42,11 +52,6 @@ const eventData = {
       "participation_certificate": "All participants who do not secure a winning position will receive a participation certificate."
     },
     "organizers_sponsors": "The event is organized by Coders Club under the CSI-PCE label.",
-    "contact_information": {
-      "Deep": "9137966805",
-      "Kartik": "9326028208",
-      "Sarthak": "9545323145"
-    },
     "additional_details": {
       "announcement": "The Final Showdown of the COY competition will be held in the first week of March 2025 in the labs.",
       "placement_opportunities": "The scores from this round will be shared directly with companies for placement opportunities, making participation crucial.",
@@ -59,8 +64,9 @@ const eventData = {
   },
   "Bytestream": {
     "event_name": "Bytestream",
-    "date": "19-March-2025",
-    "theme": "Quantumania (A New Dimension)"
+    "date": "Bytestream 2025 will be held on 19th March at 11 AM in the auditorium.",
+    "theme": "The theme for Bytestream 2025 is Quantumania: A New Dimension",
+    "description": "",
   },
   "CodeIgnite": {
     "event_name": "CodeIgnite",
@@ -84,6 +90,7 @@ const eventData = {
         "Deployment Link (if applicable)"
       ]
     },
+    "winner_announcement":"The winners of CodeIgnite will be announced during Bytestream.",
     "rules_regulations": {
       "general_rules": [
         "Teams must register before the deadline. Late entries will not be considered.",
@@ -111,12 +118,9 @@ const eventData = {
       "Technical Implementation",
       "Impact & Use Case",
       "Presentation & Demo"
-    ],
-    "contact_information": {
-      "Kartik Dubey": "9326028208",
-      "Tanaya Gharge": "9321728112"
-    }
-  }
+    ]
+  },
+
 }
 
 export default eventData;
